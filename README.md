@@ -15,8 +15,9 @@ Herramienta para mapear carácteres excepcionales en caso de ser necesario.
 3. **Arduino_keyboard_LBDL**
 Librería necesaria para la distribución de teclado en español.
 
-#Wiki BAD DUCK ESP
+# Wiki BAD DUCK ESP
 ¿Como configurar mi bad usb?
+
 instalamos la libreria Arduino_keyboard_LBDL
 creamos un archivo de texto(.txt) con el nombre que queramos ejemplo: script.txt
 Lo metemos en nuestra tarjeta micro sd junto con la carpeta lang.
