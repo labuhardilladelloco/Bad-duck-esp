@@ -1,0 +1,2 @@
+DELAY 3000
+STRING ¡!"#$%&'()*+,-./0123456789:;<=>¿?@ABCDEFGHIJKLMNÑOPQRSTUVWXYZ[\]^_`abcdefghijklmnñopqrstuvwxyz{|}~
